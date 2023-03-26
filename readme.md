@@ -9,11 +9,11 @@ My goal is to secure a challenging position where I can utilize my technical ski
 
 ### Interests
 I'm keenly interested in the following domains: 
-```markdown
-1. FinTech  
-2. EdTech  
-3. Social Network/Media
-``` 
+
+- FinTech  
+- EdTech  
+- Social Network/Media
+
 However, I'm open to work on any other stimulating projects outside of these sectors. 
 
 ### Contact
