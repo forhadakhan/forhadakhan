@@ -17,4 +17,4 @@ I'm keenly interested in the following domains:
 However, I'm open to work on any other stimulating projects outside of these sectors. 
 
 ### Contact
-If you are interested in contacting me, please email me at [forhadkhan.pm@gmail.com](mailto:forhadkhan.pm@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/forhadakhan) or [Twitter](https://twitter.com/forhadakhan). 
+Please email me at [forhadkhan.pm@gmail.com](mailto:forhadkhan.pm@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/forhadakhan) or [Twitter](https://twitter.com/forhadakhan). 
