@@ -86,7 +86,8 @@ professional environments, leveraging my skills to contribute effectively.
 <p align="center">Feel free to <a href="https://dm.new/khan" target="_blank">reach out</a> if you'd like to collaborate! 😄</p>  
 
 ---
-
+<!--
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=forhadakhan&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>  
+-->
