@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anek+Bangla&weight=600&size=32&pause=1000&center=true&vCenter=true&width=550&lines=Hi+there!+👋;Forhad+Khan+here!;I+am+a+full-stack+developer+👨‍💻;সালাম+👋;ফরহাদ+খান+বলছি!;আমি+একজন+ফুল-স্ট্যাক+ডেভেলাপার+👨‍💻">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anek+Bangla&weight=600&size=32&pause=1000&center=true&vCenter=true&width=550&lines=Hi+there!+👋;Forhad+Khan+here!;I+am+a+full-stack+developer+👨‍💻;সালাম+👋;ফরহাদ+খান+বলছি!;আমি+একজন+ফুল-স্ট্যাক+ডেভেলপার+👨‍💻">
 </h1>
 
 I am a tech professional with half a decade of experience in learning, building, and serving within 
