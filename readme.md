@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anek+Bangla&weight=600&size=32&pause=1000&center=true&vCenter=true&width=550&lines=Hi+there!+👋;Forhad+Khan+here!;I+am+a+full-stack+developer+👨‍💻;সালাম+👋;ফরহাদ+খান+বলছি!;আমি+একজন+ফুল-স্ট্যাক+ডেভেলাপার+👨‍💻">
+</h1>
 
 I am a tech professional with half a decade of experience in learning, building, and serving within 
 the field of software development, holding a bachelor's degree in computer science and engineering. 
@@ -86,8 +88,8 @@ professional environments, leveraging my skills to contribute effectively.
 <p align="center">Feel free to <a href="https://dm.new/khan" target="_blank">reach out</a> if you'd like to collaborate! 😄</p>  
 
 ---
-<!--
+
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=forhadakhan&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>  
--->
+
