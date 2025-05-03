@@ -8,7 +8,7 @@ Known for my adaptability to emerging technologies, I approach every challenge w
 mindset. Open to continuous learning, I am committed to making a positive impact in diverse 
 professional environments, leveraging my skills to contribute effectively. 
 
-
+<!--
 ### 🛠️ Technologies & Tools
 <table align="center">
   <tr>
@@ -82,7 +82,7 @@ professional environments, leveraging my skills to contribute effectively.
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 <p align="center">Feel free to <a href="https://dm.new/khan" target="_blank">reach out</a> if you'd like to collaborate! 😄</p>  
