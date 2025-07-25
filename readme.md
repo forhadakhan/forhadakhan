@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anek+Bangla&weight=600&size=32&pause=1000&center=true&vCenter=true&width=550&lines=Hi+there!+👋;Forhad+Khan+here!;I+am+a+full-stack+developer+👨‍💻;সালাম+👋;ফরহাদ+খান+বলছি!;আমি+একজন+ফুল-স্ট্যাক+ডেভেলপার+👨‍💻">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anek+Bangla&weight=600&size=32&pause=1010&center=true&vCenter=true&width=550&lines=👋+This+is+Forhad+Khan;👨‍💻+A+Full-Stack+Developer;✨+Crafting+Cutting-Edge+Web+Solutions;🎯+Now+Mastering+Cloud,+DevOps+and+AI;">
 </h1>
 
 I am a tech professional with half a decade of experience in learning, building, and serving within 
@@ -86,6 +86,50 @@ professional environments, leveraging my skills to contribute effectively.
 ---
 
 <p align="center">Feel free to <a href="https://dm.new/khan" target="_blank">reach out</a> if you'd like to collaborate! 😄</p>  
+
+---
+
+<h2 align="center"> PROJECTS </h2>
+
+### ↗️ PRAGMACS Website | [Live](https://pragmacs.com)
+A responsive and performance-optimized website built for **Pragma Consultancy and Solutions (PRAGMACS)**. It features a clean, modern design powered by Tailwind CSS and NextJS, deployed through Vercel with Cloudflare support for enhanced security and speed. The platform includes a compelling landing page, detailed services overview, company background (About page), terms, career listings, and an interactive contact form—streamlining business digitalization and customer engagement.   
+> **Technologies:** `HTML`, `Tailwind CSS`, `TypeScript`, `React`, `NextJS`, `Vercel`, `Cloudflare`
+
+<br/>
+
+### 📚 [EMIS - Education Management Information System](https://github.com/forhadakhan/emis/)
+A comprehensive web-based platform designed to streamline and optimize the management of educational institutions. **EMIS** is powered by advanced technologies such as Django, React.js, PostgreSQL, and integrates with Google services like Gmail SMTP and Google Drive API for document storage. The system supports multi-role user authentication and customizable access levels, allowing administrators, staff, teachers, and students to efficiently manage and interact with educational data. Key features include course management, grading systems, student and staff profiles, real-time communication, and a fully interactive dashboard.
+> **Technologies:** `Python`, `Django`, `Django Rest Framework`, `PostgreSQL`, `React`, `Bootstrap`, `Vite`, `Gmail SMTP`, `Google Drive API`, `Vercel`, `Railway`, `Firebase`
+
+<br/>
+
+### 📦 [Image Filter and Searching System](https://github.com/forhadakhan/Image-Filter-and-Searching-System)
+A console-based Python project that enables users to efficiently scan thousands of local images to identify, separate, and organize those containing specific individuals or groups using facial recognition. Powered by the `face_recognition` library, it provides three core functions: **filtering images of one person**, **filtering images of multiple people**, and **identifying known individuals across a dataset**. Designed to run locally, this tool is intended for personal use and streamlines image management through practical facial analysis.   
+> **Technologies:** `Python`, `Face Recognition`
+
+<br/>
+
+### 🛠️ [Tools](https://github.com/forhadakhan/tools)
+A web-based application that integrates multiple essential utilities into a single, user-friendly platform. It enhances productivity by offering quick access to various tools, eliminating the need for multiple standalone apps.   
+> **Technologies:** `HTML`, `Tailwind CSS`, `TypeScript`, `React`, `NextJS`, `Vercel`, `Cloudflare`
+
+<br/>
+
+### 🌐 [Domain Status](https://github.com/forhadakhan/domain-status)
+A lightweight, user-friendly web application that instantly checks whether a domain name is registered or available. 
+> **Technologies:** `HTML`, `CSS`, `JavaScript`, `Vercel`
+
+<br/>
+
+### 📝 [Conventional Commits - Bengali Translation](https://github.com/forhadakhan/conventionalcommits.org) | [Live](https://www.conventionalcommits.org/bn/v1.0.0/)
+A community-driven initiative to translate the Conventional Commits specification into Bengali, making it accessible to Bengali-speaking developers. This project helps increase the adoption of standardized commit messages in the local developer community.
+> **Technologies:** `Markdown`, `Translation`, `Localization`, `Documentation`
+
+<br/>
+
+### 🌊 [WCS - Waterlily Cooperative Society](http://wcs.test)
+An NGO-focused platform designed to empower and support rural communities in Bangladesh, especially women. **WCS** helps its members achieve financial stability by providing training, savings programs, business mentorship, and emergency funding. This project features both a public-facing portal and an internal management system, including membership applications, service requests, and administrative controls. Though the platform is **deprecated and no longer supported**, it serves as a comprehensive solution for managing both members and organizational processes.
+> **Technologies:** `PHP`, `Laravel`, `MySQL`, `Bootstrap`, `Font Awesome`, `HTML5`, `CSS3`
 
 ---
 <!--
